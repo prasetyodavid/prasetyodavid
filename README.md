@@ -1,0 +1,4 @@
+- 👋 Hi, I’m David Prasetyo
+- 👀 I’m interested in Backend Engineering
+- 🌱 I’m currently learning Golang as backend core API
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/david-prasetyo/)
